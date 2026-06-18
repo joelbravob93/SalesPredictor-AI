@@ -186,7 +186,7 @@ Abrir `Proyecto_SalesPredictorAI.pbix` (requiere Power BI Desktop).
 
 **Joel Eduardo Bravo Bravo**
 Técnico Analista de Datos | Ingeniería en Data Science (en curso) — AIEP
-[LinkedIn](https://www.linkedin.com/in/joelbravob) · [GitHub](https://github.com/Pankache00)
+[LinkedIn](https://www.linkedin.com/in/joelbravob) · [GitHub](https://github.com/joelbravob93)
 
 **Marieth Randolph** · **Kareanyelis Chirino**
 
